@@ -4,3 +4,6 @@ and simple
 =======
 and simple
 >>>>>>> feature1
+
+nff-merge test
+
