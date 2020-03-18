@@ -1,2 +1,6 @@
 creating  a new branch is quick and simple
-& simple
+<<<<<<< HEAD
+and simple
+=======
+and simple
+>>>>>>> feature1
